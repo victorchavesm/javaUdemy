@@ -1,11 +1,4 @@
 INDEX VERSION 1.134+/home/victor/Documentos/CURSO JAVA UDEMY/ws-eclipse/.metadata/.plugins/org.eclipse.jdt.core
 4071426965.index
-1692486012.index
-3365978015.index
-648994483.index
-1370091045.index
-3486350214.index
-3100265232.index
-1455696444.index
+3189021885.index
 1865797976.index
-379656103.index
