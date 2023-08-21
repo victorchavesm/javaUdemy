@@ -22,7 +22,7 @@ public class Exercicio09 {
 		else {
 			System.out.printf("%d e %d não são multiplos entre si", x, y);
 		}
-		
-	}
+		sc.close();
+		}
 
 }
