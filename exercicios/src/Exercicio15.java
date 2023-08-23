@@ -14,7 +14,7 @@ public class Exercicio15 {
 		int senha = sc.nextInt();
 		
 		while (senha != 2002) {
-			System.out.print("Senha incorreta! Digite novamente sua senha: ");
+			System.out.printf("Senha incorreta! %nDigite novamente sua senha: ");
 			senha = sc.nextInt();
 		}
 		
