@@ -10,8 +10,24 @@ public class Exercicio19 {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("Digite um número inteiro: ");
 		
+		int n = sc.nextInt();
 		
+		int in = 0;
+		int out = 0;
+		
+		for (int i = 0; i < n; i++) {
+			int x = sc.nextInt();
+			if (x >= 10 && x <= 20) {
+				in = in + 1;
+			}
+			else {
+				out = out + 1;
+			}
+		}
+		
+		System.out.printf("Dos números digitados, %d estão dentro do intervalo [10,20] e %d estão fora desse intervalo.", in, out);
 		
 		
 		
