@@ -19,7 +19,7 @@
             <entry path="/usr/lib/jvm/java-8-oracle/jre/lib/endorsed"/>
         </endorsedDirs>
     </libraryInfo>
-    <libraryInfo home="/usr/lib/jvm/java-17-openjdk-amd64" version="17.0.8"/>
+    <libraryInfo home="/usr/lib/jvm/java-17-openjdk-amd64" version="17.0.8.1"/>
     <libraryInfo home="/usr/lib/jvm/java-8-openjdk-amd64" version="1.8.0_382">
         <bootpath>
             <entry path="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar"/>
@@ -40,6 +40,6 @@
         </endorsedDirs>
     </libraryInfo>
     <libraryInfo home="/home/victor/Documentos/CURSO JAVA UDEMY/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.7.v20230425-1502/jre" version="17.0.7"/>
-    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.20"/>
+    <libraryInfo home="/usr/lib/jvm/java-11-openjdk-amd64" version="11.0.20.1"/>
     <libraryInfo home="/home/victor/Documentos/CURSO JAVA UDEMY/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.7.v20230425-1502" version="17.0.7"/>
 </libraryInfos>
